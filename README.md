@@ -8,5 +8,5 @@ CAN H - pin 7
 CAN L - pin 2
 +12V - pin 9  (didn't tested yet)
 
-it allow to operate 7 section
+it allow to operate 13 section
 
