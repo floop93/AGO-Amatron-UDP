@@ -26,7 +26,7 @@
 
 #define LW232_LAWICEL_VERSION_STR     "V1013"
 #define LW232_LAWICEL_SERIAL_NUM      "NA123"
-#define LW232_CAN_BUS_SHIELD_CS_PIN   10
+#define LW232_CAN_BUS_SHIELD_CS_PIN   9
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
