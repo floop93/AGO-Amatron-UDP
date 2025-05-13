@@ -6,7 +6,8 @@ AMATRON connection to DB9 socket (Y spliter)
 GND - pin 3
 CAN H - pin 7
 CAN L - pin 2
-+12V - pin 9  (didn't tested yet)
++12V always - pin 9  
++12V on signal pin 8 
 
 it allow to operate 13 section
 
