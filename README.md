@@ -1,4 +1,4 @@
-9# AgOpenGps section control for Amatron sprayer
+# AgOpenGps section control for Amatron sprayer
 
 Project is based on MCP2515 and ENC28J60 module and arduino nano. 
 MCP215 CS pin: D9
