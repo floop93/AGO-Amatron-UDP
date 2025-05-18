@@ -15,3 +15,5 @@ AMATRON connection to DB9 socket (Y spliter)
 It allow to operate 13 section
 
 To avoid using physical switch for power on, use pin 8 to trigger relay (through transistor circuit) to deliver power from pin 9 (i'm not sure if it's safe to use pin 8 as power source)
+
+![rev 2 0 1](https://github.com/user-attachments/assets/2ab7000b-50e2-49dd-8049-f113f91be028)
